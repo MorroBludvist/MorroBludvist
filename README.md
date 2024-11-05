@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @MorroBludvist/@Igor
 - 👀 I’m interested in program
-- 🌱 I’m currently learning in school
-- 💞️ I’m do not looking to collaborate
-- 📫 How to reach me igorek.sekirin@yandex.ru
+- 🌱 I’m currently studying at the university
+- 💞️ I’m open to collaborations
+- 📫 How to reach me igorek.sekirin@gmail.com
 
 <!---
 MorroBludvist/MorroBludvist is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
